@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Musharraf296
+- 👀 I’m interested in Python Django , PHP laravel...
+- 🌱 I’m currently learning laravel...
+- 📫 How to reach me (musharrafliaqat390@gmail.com)...
+
+<!---
+Musharraf296/Musharraf296 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
